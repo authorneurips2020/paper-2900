@@ -1,0 +1,100 @@
+0	False	0.000	window	-1
+1	False	0.310	wildlife	people
+2	True	0.140	dog	dog
+3	True	0.212	underwater	underwater
+4	False	0.000	no person	-1
+5	False	0.375	architecture	desktop
+6	False	0.375	adolescent	people
+7	False	0.375	drink	people
+8	False	0.178	insect	people
+9	True	0.375	bird	bird
+10	False	0.375	telephone	people
+11	True	0.091	bird	bird
+12	False	0.310	snake	people
+13	True	0.076	airplane	airplane
+14	False	0.337	people	art
+15	False	0.000	grass	-1
+16	True	0.253	dog	dog
+17	True	0.375	people	people
+18	False	0.000	monochrome	-1
+19	False	0.000	shark	-1
+20	False	0.115	invertebrate	people
+21	False	0.000	steam	-1
+22	False	0.375	barrel	people
+23	False	0.375	mammal	people
+24	False	0.048	geyser	people
+25	False	0.168	bottle	people
+26	False	0.375	bee	people
+27	False	0.212	transportation system	car
+28	False	0.000	dog	-1
+29	False	0.014	Easter	people
+30	False	0.289	cart	people
+31	False	0.069	insect	no person
+32	True	0.149	dog	dog
+33	True	0.375	people	people
+34	False	0.289	no person	people
+35	False	0.091	truck	people
+36	False	0.310	train	people
+37	False	0.375	pet	people
+38	True	0.375	abstract	abstract
+39	False	0.000	no person	-1
+40	False	0.375	dog	people
+41	False	0.375	hijab	people
+42	False	0.375	leather	people
+43	True	0.200	airplane	airplane
+44	False	0.000	dog	-1
+45	False	0.000	dragonfly	-1
+46	False	0.289	no person	people
+47	False	0.000	insect	-1
+48	False	0.289	dog	people
+49	False	0.270	mammal	people
+50	False	0.337	dog	people
+51	False	0.375	no person	people
+52	False	0.375	leather	people
+53	False	0.310	no person	people
+54	False	0.289	watercraft	illustration
+55	False	0.375	bathroom	people
+56	False	0.000	dog	-1
+57	False	0.000	deer	-1
+58	False	0.375	competition	people
+59	False	0.000	dog	-1
+60	False	0.375	pan	people
+61	False	0.375	desk	people
+62	False	0.027	wildlife	people
+63	True	0.076	no person	no person
+64	False	0.225	dinner	food
+65	True	0.159	underwater	underwater
+66	False	0.123	texture	no person
+67	False	0.375	cute	people
+68	False	0.375	dog	people
+69	False	0.375	no person	people
+70	False	0.048	dog	people
+71	False	0.375	pet	people
+72	True	0.123	lizard	lizard
+73	True	0.375	people	people
+74	False	0.000	bird	-1
+75	False	0.189	nature	bird
+76	False	0.337	dog	people
+77	False	0.375	dog	people
+78	False	0.000	lizard	-1
+79	False	0.000	grass	-1
+80	False	0.375	lens	people
+81	True	0.048	snow	snow
+82	True	0.375	shelf	shelf
+83	False	0.375	exhibition	people
+84	False	0.000	nature	-1
+85	False	0.000	fungus	-1
+86	False	0.375	winter	people
+87	False	0.375	military	people
+88	False	0.337	no person	people
+89	False	0.000	people	-1
+90	False	0.000	water	-1
+91	False	0.375	bird	people
+92	False	0.375	curtain	people
+93	False	0.000	stone	-1
+94	True	0.375	people	people
+95	False	0.000	yarn	-1
+96	False	0.375	house	people
+97	False	0.000	water	-1
+98	True	0.159	dog	dog
+99	False	0.212	tent	people

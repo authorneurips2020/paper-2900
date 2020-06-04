@@ -1,0 +1,100 @@
+0	False	0.000	Bird	-1
+1	False	0.107	Geyser	Atmospheric phenomenon
+2	False	0.000	Uniform	-1
+3	True	0.001	Dog	Dog
+4	False	0.000	Spire	-1
+5	False	0.000	Dog	-1
+6	False	0.000	Land vehicle	-1
+7	True	0.123	Bag	Bag
+8	True	0.375	Bird	Bird
+9	False	0.027	Dog	Mammal
+10	False	0.000	New World monkey	-1
+11	False	0.014	Skyline	Line
+12	False	0.000	Damselfly	-1
+13	True	0.189	Bathroom	Bathroom
+14	False	0.048	T-shirt	Font
+15	False	0.000	Product	-1
+16	False	0.000	Event	-1
+17	False	0.076	Fish	Organism
+18	False	0.000	Bee	-1
+19	False	0.076	Nature	Organism
+20	False	0.000	Bag	-1
+21	False	0.000	Pickelhaube	-1
+22	False	0.008	Musical instrument	Wooden spoon
+23	False	0.000	Vehicle	-1
+24	False	0.000	Barrel	-1
+25	False	0.123	Dog	Mammal
+26	False	0.099	Moths and butterflies	Butterfly
+27	False	0.000	Arch	-1
+28	False	0.253	Wool	Green
+29	False	0.375	Fish	Yellow
+30	True	0.239	Insect	Insect
+31	False	0.000	Room	-1
+32	False	0.200	Property	Wall
+33	False	0.000	Canidae	-1
+34	False	0.000	Reptile	-1
+35	False	0.000	Ribbon snake	-1
+36	False	0.000	Nature	-1
+37	False	0.000	Photograph	-1
+38	False	0.091	Land vehicle	Transport
+39	False	0.000	Payphone	-1
+40	True	0.375	Dog	Dog
+41	False	0.000	Shopping cart	-1
+42	False	0.000	Body of water	-1
+43	False	0.000	Insect	-1
+44	False	0.000	Crab	-1
+45	False	0.000	Personal computer	-1
+46	False	0.000	Mannequin	-1
+47	True	0.375	Bird	Bird
+48	False	0.000	Mode of transport	-1
+49	True	0.048	Land vehicle	Land vehicle
+50	False	0.000	Dog	-1
+51	False	0.000	Collection	-1
+52	True	0.149	Pretzel	Pretzel
+53	False	0.000	Porcupine	-1
+54	False	0.000	Drink	-1
+55	False	0.021	Wool	Red
+56	False	0.041	Impala	Vertebrate
+57	False	0.000	Artistic gymnastics	-1
+58	True	0.375	Dish	Dish
+59	False	0.000	Dog	-1
+60	False	0.000	Dog	-1
+61	False	0.000	Boa constrictor	-1
+62	True	0.289	Vertebrate	Vertebrate
+63	False	0.000	Mammal	-1
+64	False	0.310	Pink	Circle
+65	False	0.375	Red	Pink
+66	True	0.069	Dog	Dog
+67	False	0.107	Animation	Cartoon
+68	False	0.000	Dog	-1
+69	True	0.337	Dog	Dog
+70	False	0.000	Lollipop	-1
+71	False	0.000	Event	-1
+72	True	0.115	Mammal	Mammal
+73	True	0.289	Dog	Dog
+74	False	0.000	Black	-1
+75	False	0.000	Pink	-1
+76	False	0.000	Audio equipment	-1
+77	False	0.000	Rock	-1
+78	False	0.270	Decoration	Red
+79	False	0.131	White	Pattern
+80	False	0.000	Dog	-1
+81	False	0.041	Cuisine	Food
+82	True	0.200	Penny bun	Penny bun
+83	False	0.000	Hay	-1
+84	True	0.289	Insect	Insect
+85	False	0.000	Blue	-1
+86	True	0.048	Mammal	Mammal
+87	True	0.375	Fish	Fish
+88	False	0.131	Dog	None
+89	True	0.062	Boston terrier	Boston terrier
+90	False	0.000	Tan	-1
+91	False	0.000	Dog sled	-1
+92	False	0.000	Building	-1
+93	False	0.000	Bird	-1
+94	False	0.000	Aviation	-1
+95	True	0.375	Shelf	Shelf
+96	False	0.091	Filing cabinet	None
+97	False	0.034	Vertebrate	Stoat
+98	False	0.131	Insect	Hand
+99	False	0.000	Dog	-1

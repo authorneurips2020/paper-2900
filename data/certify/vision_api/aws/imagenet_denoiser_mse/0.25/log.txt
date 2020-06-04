@@ -1,0 +1,100 @@
+0	False	0.000	Picture Window	-1
+1	False	0.140	Monkey	Animal
+2	False	0.000	Pet	-1
+3	False	0.000	Sea Life	-1
+4	False	0.000	Nature	-1
+5	False	0.000	Architecture	-1
+6	False	0.000	Clothing	-1
+7	False	0.000	Cream	-1
+8	False	0.000	Invertebrate	-1
+9	False	0.000	Parrot	-1
+10	False	0.000	Person	-1
+11	False	0.000	Bird	-1
+12	False	0.131	Reptile	Animal
+13	False	0.000	Transportation	-1
+14	False	0.159	Human	Lighting
+15	False	0.000	Bulldog	-1
+16	False	0.000	German Shepherd	-1
+17	False	0.000	Clothing	-1
+18	False	0.000	Food	-1
+19	False	0.000	Sea Life	-1
+20	False	0.000	Animal	-1
+21	False	0.115	Water	Nature
+22	False	0.000	Rain Barrel	-1
+23	False	0.000	Dog	-1
+24	False	0.000	Nature	-1
+25	True	0.310	Bottle	Bottle
+26	False	0.000	Apiary	-1
+27	False	0.000	Truck	-1
+28	False	0.000	Animal	-1
+29	False	0.000	None	-1
+30	False	0.000	Shopping Cart	-1
+31	False	0.000	Invertebrate	-1
+32	False	0.027	Mammal	Animal
+33	False	0.000	Human	-1
+34	False	0.000	Architecture	-1
+35	False	0.000	Vehicle	-1
+36	False	0.000	Human	-1
+37	False	0.000	Appliance	-1
+38	True	0.375	Spiral	Spiral
+39	False	0.000	None	-1
+40	False	0.000	Person	-1
+41	False	0.000	Person	-1
+42	False	0.131	Luggage	Diaper
+43	False	0.000	Airplane	-1
+44	False	0.000	Dog	-1
+45	True	0.048	Bow	Bow
+46	False	0.000	Building	-1
+47	False	0.000	Invertebrate	-1
+48	False	0.000	Mammal	-1
+49	False	0.000	Wildlife	-1
+50	False	0.000	Wood	-1
+51	False	0.000	Architecture	-1
+52	False	0.000	Accessories	-1
+53	True	0.375	Diaper	Diaper
+54	False	0.000	Ship	-1
+55	True	0.115	Sink	Sink
+56	False	0.000	Mammal	-1
+57	False	0.000	Animal	-1
+58	False	0.000	Human	-1
+59	False	0.000	Animal	-1
+60	False	0.000	Human	-1
+61	False	0.000	Furniture	-1
+62	False	0.000	Mammal	-1
+63	False	0.000	Musical Instrument	-1
+64	False	0.000	Pasta	-1
+65	False	0.000	Rock Beauty	-1
+66	False	0.000	Rock	-1
+67	False	0.000	Weasel	-1
+68	False	0.000	Pet	-1
+69	True	0.337	Furniture	Furniture
+70	False	0.000	Strap	-1
+71	True	0.014	Animal	Animal
+72	False	0.000	Anole	-1
+73	False	0.000	Quiver	-1
+74	False	0.000	Bird	-1
+75	False	0.091	Rodent	Animal
+76	False	0.000	Animal	-1
+77	False	0.000	Mammal	-1
+78	False	0.000	Lizard	-1
+79	False	0.000	Animal	-1
+80	False	0.000	Person	-1
+81	False	0.000	Human	-1
+82	False	0.149	Shelf	Furniture
+83	False	0.000	Altar	-1
+84	False	0.000	Animal	-1
+85	True	0.149	Plant	Plant
+86	False	0.000	Apparel	-1
+87	False	0.000	Human	-1
+88	False	0.000	Food	-1
+89	False	0.000	Person	-1
+90	False	0.041	Nature	Water
+91	False	0.000	Animal	-1
+92	False	0.000	Interior Design	-1
+93	False	0.000	Soil	-1
+94	False	0.000	Human	-1
+95	False	0.289	Yarn	Plant
+96	True	0.159	Furniture	Furniture
+97	False	0.000	Tent	-1
+98	False	0.000	Animal	-1
+99	False	0.000	Furniture	-1

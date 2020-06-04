@@ -1,0 +1,100 @@
+0	True	0.180	window	window
+1	False	0.000	wildlife	-1
+2	True	0.180	dog	dog
+3	True	0.180	underwater	underwater
+4	True	0.180	no person	no person
+5	False	0.180	architecture	texture
+6	False	0.180	adolescent	people
+7	False	0.076	drink	icee
+8	True	0.086	insect	insect
+9	True	0.180	bird	bird
+10	False	0.000	telephone	-1
+11	True	0.130	bird	bird
+12	False	0.000	snake	-1
+13	True	0.180	airplane	airplane
+14	True	0.180	people	people
+15	False	0.000	grass	-1
+16	True	0.180	dog	dog
+17	True	0.180	people	people
+18	False	0.000	monochrome	-1
+19	False	0.047	shark	fish
+20	False	0.000	invertebrate	-1
+21	False	0.000	steam	-1
+22	False	0.023	barrel	container
+23	False	0.000	mammal	-1
+24	False	0.067	geyser	smoke
+25	True	0.072	bottle	bottle
+26	False	0.000	bee	-1
+27	False	0.180	transportation system	car
+28	True	0.033	dog	dog
+29	False	0.000	Easter	-1
+30	False	0.020	cart	no person
+31	True	0.180	insect	insect
+32	True	0.180	dog	dog
+33	True	0.162	people	people
+34	True	0.138	no person	no person
+35	False	0.000	truck	-1
+36	True	0.180	train	train
+37	False	0.000	pet	-1
+38	False	0.149	abstract	desktop
+39	False	0.000	no person	-1
+40	True	0.180	dog	dog
+41	False	0.000	hijab	-1
+42	True	0.180	leather	leather
+43	False	0.180	airplane	military
+44	False	0.000	dog	-1
+45	False	0.000	dragonfly	-1
+46	True	0.180	no person	no person
+47	False	0.086	insect	invertebrate
+48	True	0.162	dog	dog
+49	False	0.000	mammal	-1
+50	True	0.162	dog	dog
+51	False	0.000	no person	-1
+52	False	0.096	leather	wear
+53	True	0.026	no person	no person
+54	True	0.076	watercraft	watercraft
+55	False	0.108	bathroom	indoors
+56	True	0.096	dog	dog
+57	False	0.000	deer	-1
+58	True	0.162	competition	competition
+59	False	0.000	dog	nature
+60	True	0.180	pan	pan
+61	False	0.067	desk	no person
+62	False	0.000	wildlife	-1
+63	False	0.000	no person	-1
+64	True	0.026	dinner	dinner
+65	True	0.180	underwater	underwater
+66	False	0.000	texture	-1
+67	False	0.000	cute	-1
+68	True	0.086	dog	dog
+69	True	0.138	no person	no person
+70	True	0.180	dog	dog
+71	False	0.000	pet	-1
+72	True	0.180	lizard	lizard
+73	False	0.000	people	-1
+74	False	0.180	bird	flamingo
+75	False	0.007	nature	wildlife
+76	True	0.114	dog	dog
+77	True	0.180	dog	dog
+78	False	0.081	lizard	reptile
+79	True	0.180	grass	grass
+80	False	0.020	lens	binoculars
+81	True	0.180	snow	snow
+82	True	0.180	shelf	shelf
+83	False	0.000	exhibition	-1
+84	False	0.020	nature	no person
+85	False	0.000	fungus	-1
+86	False	0.000	winter	-1
+87	False	0.130	military	people
+88	True	0.180	no person	no person
+89	False	0.162	people	soldier
+90	True	0.138	water	water
+91	True	0.180	bird	bird
+92	False	0.000	curtain	-1
+93	False	0.063	stone	nature
+94	True	0.162	people	people
+95	False	0.000	yarn	-1
+96	False	0.000	house	-1
+97	False	0.000	water	-1
+98	True	0.130	dog	dog
+99	False	0.000	tent	-1

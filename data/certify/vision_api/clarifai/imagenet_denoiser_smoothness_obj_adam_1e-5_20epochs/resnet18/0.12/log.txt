@@ -1,0 +1,100 @@
+0	True	0.180	bird	bird
+1	False	0.000	geyser	-1
+2	True	0.180	people	people
+3	True	0.180	dog	dog
+4	False	0.000	no person	-1
+5	True	0.180	dog	dog
+6	True	0.108	truck	truck
+7	True	0.180	leather	leather
+8	False	0.000	bird	-1
+9	False	0.072	dog	people
+10	False	0.000	wildlife	-1
+11	True	0.162	watercraft	watercraft
+12	True	0.047	dragonfly	dragonfly
+13	False	0.000	bathroom	-1
+14	False	0.180	adolescent	people
+15	True	0.122	bottle	bottle
+16	True	0.180	people	people
+17	True	0.180	underwater	underwater
+18	False	0.180	bee	people
+19	False	0.076	stone	science
+20	False	0.180	leather	people
+21	False	0.000	people	-1
+22	True	0.108	no person	no person
+23	False	0.004	airplane	military
+24	False	0.149	barrel	people
+25	True	0.086	dog	dog
+26	False	0.016	nature	no person
+27	False	0.000	no person	-1
+28	False	0.000	yarn	-1
+29	True	0.180	underwater	underwater
+30	True	0.180	insect	insect
+31	True	0.180	window	window
+32	False	0.000	house	-1
+33	False	0.162	pet	people
+34	True	0.180	lizard	lizard
+35	False	0.180	lizard	reptile
+36	False	0.000	water	-1
+37	False	0.000	lens	-1
+38	True	0.180	train	train
+39	False	0.047	telephone	people
+40	False	0.122	grass	dog
+41	True	0.180	cart	cart
+42	False	0.026	steam	tree
+43	True	0.096	insect	insect
+44	False	0.047	monochrome	invertebrate
+45	False	0.067	desk	people
+46	False	0.063	no person	people
+47	True	0.180	bird	bird
+48	False	0.180	military	people
+49	False	0.000	transportation system	-1
+50	True	0.102	dog	dog
+51	False	0.162	exhibition	people
+52	False	0.010	no person	pretzel
+53	True	0.072	nature	nature
+54	False	0.000	drink	-1
+55	True	0.081	winter	winter
+56	False	0.000	deer	-1
+57	False	0.000	competition	people
+58	False	0.114	dinner	food
+59	True	0.086	dog	dog
+60	True	0.162	dog	dog
+61	True	0.138	snake	snake
+62	True	0.059	wildlife	wildlife
+63	False	0.000	mammal	-1
+64	True	0.180	abstract	abstract
+65	False	0.000	texture	-1
+66	True	0.180	dog	dog
+67	True	0.180	people	people
+68	False	0.000	dog	-1
+69	True	0.162	dog	dog
+70	False	0.000	no person	-1
+71	False	0.102	hijab	people
+72	True	0.108	dog	dog
+73	True	0.020	dog	dog
+74	True	0.180	people	people
+75	False	0.000	Easter	-1
+76	True	0.180	people	people
+77	False	0.000	water	-1
+78	False	0.000	curtain	-1
+79	False	0.000	architecture	-1
+80	True	0.091	dog	dog
+81	True	0.130	pan	pan
+82	False	0.007	fungus	food
+83	False	0.000	no person	-1
+84	False	0.086	insect	invertebrate
+85	False	0.040	tent	bed
+86	True	0.180	grass	grass
+87	False	0.000	shark	-1
+88	True	0.026	dog	dog
+89	False	0.149	pet	people
+90	False	0.180	mammal	people
+91	True	0.180	snow	snow
+92	False	0.055	no person	people
+93	True	0.180	bird	bird
+94	True	0.180	airplane	airplane
+95	True	0.180	shelf	shelf
+96	False	0.180	no person	people
+97	False	0.108	cute	mammal
+98	True	0.149	invertebrate	invertebrate
+99	True	0.013	dog	dog
